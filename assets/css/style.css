@@ -263,7 +263,7 @@ footer {
     }
 }
 
-@media screen and (max-width 950px) {
+@media screen and (max-width: 950px) {
     #menu {
         clear: left;
         float: left;
@@ -274,3 +274,6 @@ footer {
     
 }
 
+#cover-text {
+    width: 90%;
+}
